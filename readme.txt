@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 My stupid boss still prefers SVN.
-create a new branch and modify readme.txtt
+create a new branch and modify readme.tx
